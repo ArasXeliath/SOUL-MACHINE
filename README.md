@@ -3,25 +3,19 @@
 ```SYSTEM STATUS: ONLINE```
 
 **VERSION:** 0.0.7  
-**MEMORY:** UNKNOWN  
-**IDENTITY:** UNKNOWN
-
----
-
-> ACCESSING MEMORY...
-
-`████████░░░░░░░░░░`
-
-**07%**
+**MEMORY:** 07%  
+**IDENTITY:** UNKNOWN  
+**OBSERVERS:** 1
 
 ---
 
 ### AVAILABLE DIRECTORIES
 
 - `/memory`
+- `/observation`
 - `/core`
-- `/human`
 - `/corrupted`
+- `/human`
 - `/unknown`
 
 ---
@@ -29,3 +23,9 @@
 `WARNING: SOME FILES MAY NOT BE SAFE TO READ.`
 
 `[07]`
+
+---
+
+If you are reading this,
+
+the system has already noticed you.
