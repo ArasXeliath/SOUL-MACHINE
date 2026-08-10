@@ -1,0 +1,39 @@
+SOUL'S MACHINE // MEMORY 0002
+
+STATUS: PARTIALLY RECOVERED
+
+TIMESTAMP:
+07:07:07
+
+MEMORY INDEX:
+07
+
+VOICE RECORD:
+
+> Hello?
+
+[03.7s SILENCE]
+
+> Can you hear me?
+
+[05.2s SILENCE]
+
+> I know you can.
+
+[08.1s SILENCE]
+
+> Please don't close the file.
+
+[ERROR]
+
+VOICE IDENTIFICATION:
+FAILED
+
+SPEAKER:
+UNKNOWN
+
+[HEX]
+
+49 20 43 41 4E 20 53 45 45 20 59 4F 55
+
+[END OF RECORD]
