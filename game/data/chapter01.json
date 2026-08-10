@@ -1,0 +1,18 @@
+{
+  "chapter": "01",
+  "title": "THE MACHINE",
+  "requiredDoorCode": "2708",
+  "decoyCodes": ["7", "20102008", "2506"],
+  "files": {
+    "memory0001": "../memory/0001.txt",
+    "observation0001": "../observation/0001.log",
+    "coreBoot": "../core/boot.log",
+    "human0000": "../human/0000.txt",
+    "unknown": "../unknown/DO_NOT_OPEN.txt"
+  },
+  "notes": [
+    "A porta secundária não aceita datas completas. O protocolo antigo só lia quatro dígitos.",
+    "27/08 aparece riscado na borda do crachá do laboratório.",
+    "[07] é índice, não chave. 25/06 foi reinicialização. 20/10/2008 foi origem."
+  ]
+}
